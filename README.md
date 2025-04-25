@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on [Eva](https://github.com/andreasmcarvalho/Eva)
 
-- 🌱 I’m currently learning **Next.js and aws**
-
 - 🔭 I’m currently working on [Maria Alvez project](https://github.com/uniarp/projeto-maria-alvez)
+
+- 🌱 I’m currently learning **Next.js and aws**
 
 - 💬 Ask me about **python, javascript and django**
 
