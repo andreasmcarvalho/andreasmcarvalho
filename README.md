@@ -21,7 +21,7 @@
 
 ### 🚀 Front-End
 <p align="left">
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer" style="margin-right: 10px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer" style="margin-right: 14px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
   <a href="https://angular.io" target="_blank" rel="noreferrer" style="margin-right: 10px;"><img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/></a>
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer" style="margin-right: 10px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/></a>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer" style="margin-right: 10px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
