@@ -44,6 +44,3 @@
 
 ###
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=andreasmcarvalho&show_icons=true&locale=en&layout=compact" alt="andreasmcarvalho" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=andreasmcarvalho&show_icons=true&locale=en" alt="andreasmcarvalho" /></p>
