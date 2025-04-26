@@ -11,12 +11,6 @@
 
 - 📫 How to reach me **andreasmcarvalho1@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
-<h2 align="left">Hi 👋! My name is Andreas Muller</h2>
-
 <h3 align="left">🧠 My Tech Stack</h3>
 
 ### 🚀 Front-End
