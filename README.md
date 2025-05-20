@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Andreas Muller</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andreasmcarvalho&label=Profile%20views&color=0e75b6&style=flat" alt="andreasmcarvalho" /> </p>
 
-- 🔭 I’m currently working on [Eva](https://github.com/andreasmcarvalho/Eva)
+- working on [Eva](https://github.com/andreasmcarvalho/Eva), automated system that sends emails using only voice.
 
-- 🔭 I’m currently working on [Maria Alvez project](https://github.com/uniarp/projeto-maria-alvez)
+- working on [Maria Alvez project](https://github.com/andreasmcarvalho/projeto-maria-alvez-v2), shared and detained by Mindsix.
 
-- 🌱 I’m currently learning **Next.js and aws**
-
-- 💬 Ask me about **python, javascript and django**
+- Founder and Co-owner of Mindsix
 
 - 📫 How to reach me **andreasmcarvalho1@gmail.com**
 
